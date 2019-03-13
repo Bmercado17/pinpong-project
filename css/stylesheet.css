@@ -1,0 +1,38 @@
+#result {
+    display: none;
+}
+html {
+    background-color: gray;
+}
+
+
+#button-color {
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 55%;
+  }
+  header h1 {
+      text-align: center;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  #changebackground {
+      background-color: gray;
+  }
+  body {
+      background-color: gray;
+  }
+  input:invalid {
+    border: 2px dashed red;
+  }
+  
+  input:valid {
+    border: 2px solid black;
+  }
